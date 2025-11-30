@@ -80,7 +80,7 @@ TLINK (Turbo Linker): For linking the object file (16-bit version).
 
 Clone the repository:
 
-git clone [https://github.com/YourUsername/Assembly-Bank-System.git](https://github.com/Ahmed-Elhagein/Bank-System.git)
+git clone [https://github.com/Ahmed-Elhagein/Bank-System]
 
 
 Mount your directory in DOSBox:
